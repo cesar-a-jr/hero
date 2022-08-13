@@ -12,13 +12,17 @@ const globalStyle = createGlobalStyle`
     }
 
     body{
-        background-color:#F8FDFF
+        background-color:#F8FDFF;
+        font-family: 'Poppins', sans-serif;
+
     }
 
     button{
-        background-color: none;
+        background-color: transparent;
         border: none;
         outline: none;
+        font-family: 'Poppins', sans-serif;
+        cursor: pointer;
     }
 
     a{
