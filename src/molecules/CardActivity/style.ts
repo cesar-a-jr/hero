@@ -12,4 +12,18 @@ export const Container = styled.div`
     text-align: left;
     padding: 11px;
 
+    small{
+        font-size: 15px;
+
+    }
+    strong {
+        display: block;
+        margin-top: 2px;
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    i{
+        vertical-align: middle;
+    }
     `

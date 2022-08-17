@@ -9,7 +9,7 @@ export const Container = styled.div`
     }
 
     h1{
-        font-size: 56px;
+        font-size: 40px;
         font-weight: 700;
         color: #1E255E;
         margin-bottom: 20px;

@@ -1,7 +1,7 @@
 import * as S from './styled'
 
 const ButtonContact = () => (
-    <S.Container>Contact Us</S.Container>
+    <a href="https://api.whatsapp.com/send?phone=5541998981739" target="_blank"><S.Container>Fale Conosco</S.Container></a>
 )
 
 export default ButtonContact;

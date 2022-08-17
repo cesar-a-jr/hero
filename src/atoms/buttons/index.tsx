@@ -1,7 +1,8 @@
 import * as S from "./style"
 
 const Button = () => {
-    return <S.Container>Enquiry</S.Container>;
+    return (
+    <a href="https://cesar-a-jr.github.io/social_tree/"><S.Container>Portfólio</S.Container></a>);
 }
 
 export default Button;
